@@ -8,14 +8,14 @@ main:
     url: '#about'
     weight: 10
   - name: Publications
-    url: '#featured'
-    weight: 20
+    url: '#publications'
+    weight: 30
   # - name: Teaching
   #   url: '#teaching'
   #   weight: 30
   - name: News
     url: '#posts'
-    weight: 30
+    weight: 20
   - name: CV
     url: uploads/resume.pdf
     weight: 40

@@ -39,10 +39,8 @@ experience:
     date_end: '2022-08-19'
     description: |2-
         Topic: Control Flow Integrity for RISC-V ISA
-        
-        * Qemu profiling on a branch landing scheme
-        * Proposed two extention on branch landing scheme
-        * Designed a workflow to evaluate the proposed extention
+        * Instructor: [Lide Duan](https://scholar.google.com/citations?user=uCR1jVsAAAAJ&hl=en)
+
   
   - title: Teaching Assistant Fall 2021
     company: University of Southern California
